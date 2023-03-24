@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+  <a href="https://www.example.com" target="_blank">
+    <text x="0" y="20" font-family="Verdana" font-size="20">Example Link</text>
+  </a>
+</svg>
