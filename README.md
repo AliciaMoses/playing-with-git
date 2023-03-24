@@ -1,6 +1,13 @@
 # playing-with-git 
 
 
+
+<iframe src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22200%22%20height%3D%22100%22%3E%3Ca%20href%3D%22https%3A%2F%2Fwww.example.com%22%20target%3D%22_blank%22%3E%3Ctext%20x%3D%220%22%20y%3D%2220%22%20font-family%3D%22Verdana%22%20font-size%3D%2220%22%3EExample%20Link%3C%2Ftext%3E%3C%2Fa%3E%3C%2Fsvg%3E%0A" width="200" height="100" frameborder="0"></iframe>
+
+
+
+#redirects to SVG sans file rendering
+
 ![Link Example](./test.svg)
 
 
