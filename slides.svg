@@ -3,10 +3,10 @@
   <rect width="100%" height="100%" fill="lightblue" />
 
   <!-- Images for the slideshow -->
-  <image xlink:href="https://picsum.photos/100/100" width="100" height="100" x="600" y="50">
+  <image xlink:href="https://fastly.picsum.photos/id/949/300/200.jpg?hmac=DS4W4WYptYWSHOtIf-rdcoMSGwJsC-EcNP-p8SC0I9M" width="100" height="100" x="600" y="50">
     <animate attributeName="opacity" from="1" to="0" dur="4s" begin="0s" repeatCount="indefinite" />
   </image>
-  <image xlink:href="https://picsum.photos/100/100" width="100" height="100" x="600" y="50">
+  <image xlink:href="https://fastly.picsum.photos/id/928/300/200.jpg?hmac=P9RQc14BkBxIJYQJxLcrLTt-4unse48mMh6v7jGWTf0" width="100" height="100" x="600" y="50">
     <animate attributeName="opacity" from="1" to="0" dur="4s" begin="2s" repeatCount="indefinite" />
   </image>
 
