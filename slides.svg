@@ -13,8 +13,8 @@
   <rect width="100%" height="100%" fill="lightblue" />
 
   <!-- Images for the slideshow -->
-  <image class="image-1" xlink:href="https://fastly.picsum.photos/id/949/300/200.jpg?hmac=DS4W4WYptYWSHOtIf-rdcoMSGwJsC-EcNP-p8SC0I9M" width="100" height="100" x="600" y="50" />
-  <image class="image-2" xlink:href="https://fastly.picsum.photos/id/928/300/200.jpg?hmac=P9RQc14BkBxIJYQJxLcrLTt-4unse48mMh6v7jGWTf0" width="100" height="100" x="600" y="50" />
+  <image class="image-1" xlink:href="./arrow-1043850_1920.jpg" width="100" height="100" x="600" y="50" />
+  <image class="image-2" xlink:href="./abstract-3866485.jpg" width="100" height="100" x="600" y="50" />
 
   <!-- Your text content -->
   <text x="20" y="50" font-family="Verdana" font-size="20" fill="white">Your Text Here</text>
