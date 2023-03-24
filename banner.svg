@@ -1,0 +1,18 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+
+    text {
+      animation: fadeIn 3s ease-in-out;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="lightblue" />
+
+  <!-- Your animated text content -->
+  <text x="20" y="50" font-family="Verdana" font-size="20" fill="black">I'm a full-stack lorem Strategic ipsum deo est development that content complex problems vox user-centered design.</text>
+</svg>

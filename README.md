@@ -1,6 +1,9 @@
 # playing-with-git 
 
 
+
+
+
 ![images Example](./slides.svg)
 
 
