@@ -1,7 +1,7 @@
 # playing-with-git 
 
 
-
+![images Example](./animationbanner.gif)
 
 
 ![images Example](./slides.svg)
