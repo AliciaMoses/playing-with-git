@@ -1,0 +1,15 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Background and other static elements -->
+  <rect width="100%" height="100%" fill="lightblue" />
+
+  <!-- Images for the slideshow -->
+  <image xlink:href="https://picsum.photos/100/100" width="100" height="100" x="600" y="50">
+    <animate attributeName="opacity" from="1" to="0" dur="4s" begin="0s" repeatCount="indefinite" />
+  </image>
+  <image xlink:href="https://picsum.photos/100/100" width="100" height="100" x="600" y="50">
+    <animate attributeName="opacity" from="1" to="0" dur="4s" begin="2s" repeatCount="indefinite" />
+  </image>
+
+  <!--  text content -->
+  <text x="20" y="50" font-family="Verdana" font-size="20" fill="white">Your Text Here</text>
+</svg>
